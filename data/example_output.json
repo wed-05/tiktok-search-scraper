@@ -1,0 +1,74 @@
+[
+  {
+    "url": "https://www.tiktok.com/@argenby/video/7171782248281165058",
+    "id": "7171782248281165058",
+    "desc": "Sigma must respect everyone… @ayazkyzz @aman4ek",
+    "createTime": "1669810686",
+    "createdAt": "2022-11-30T12:58:06.000Z",
+    "video": {
+      "duration": 25,
+      "ratio": "720p",
+      "bitrate": 2110249,
+      "format": "mp4"
+    },
+    "author": "argenby",
+    "music": {
+      "title": "оригинальный звук",
+      "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7171782259232492289.mp3"
+    },
+    "stats": {
+      "diggCount": 7400000,
+      "shareCount": 13600,
+      "commentCount": 62600,
+      "playCount": 70000000
+    },
+    "authorStats": {
+      "followerCount": 8900000,
+      "heartCount": 268000000,
+      "videoCount": 1248
+    },
+    "locationCreated": "KG",
+    "diversificationLabels": [
+      "comedy",
+      "meme",
+      "sigma"
+    ],
+    "nickname": "argenby \u2022 sigma"
+  },
+  {
+    "url": "https://www.tiktok.com/@nightgrind/video/7212345678901234567",
+    "id": "7212345678901234567",
+    "desc": "POV: you chose the sigma grindset over sleep",
+    "createTime": "1710001200",
+    "createdAt": "2024-03-09T23:00:00.000Z",
+    "video": {
+      "duration": 18,
+      "ratio": "720p",
+      "bitrate": 1678943,
+      "format": "mp4"
+    },
+    "author": "nightgrind",
+    "music": {
+      "title": "Dark Trap Beat",
+      "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tiktok-obj/7212345678901234567.mp3"
+    },
+    "stats": {
+      "diggCount": 124000,
+      "shareCount": 4200,
+      "commentCount": 3200,
+      "playCount": 2100000
+    },
+    "authorStats": {
+      "followerCount": 120000,
+      "heartCount": 3400000,
+      "videoCount": 182
+    },
+    "locationCreated": "US",
+    "diversificationLabels": [
+      "nightlife",
+      "productivity",
+      "sigma"
+    ],
+    "nickname": "Night Grind"
+  }
+]
