@@ -1,0 +1,27 @@
+{
+  "name": "tiktok-search-scraper",
+  "version": "1.0.0",
+  "description": "Extract videos, hashtags, user info, and engagement stats directly from TikTok search results or sample JSON payloads.",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js",
+    "scrape": "node src/main.js",
+    "mock": "node src/main.js --mode mock",
+    "live": "node src/main.js --mode live"
+  },
+  "keywords": [
+    "tiktok",
+    "scraper",
+    "search",
+    "automation",
+    "analytics",
+    "crawler"
+  ],
+  "author": "Bitbash",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {}
+}
